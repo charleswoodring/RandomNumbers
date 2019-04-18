@@ -1,0 +1,11 @@
+C:\Users\c64wo\workspace\csharp\practice\RandomNumbers\bin\Debug\netcoreapp2.2\RandomNumbers.deps.json
+C:\Users\c64wo\workspace\csharp\practice\RandomNumbers\bin\Debug\netcoreapp2.2\RandomNumbers.runtimeconfig.json
+C:\Users\c64wo\workspace\csharp\practice\RandomNumbers\bin\Debug\netcoreapp2.2\RandomNumbers.runtimeconfig.dev.json
+C:\Users\c64wo\workspace\csharp\practice\RandomNumbers\bin\Debug\netcoreapp2.2\RandomNumbers.dll
+C:\Users\c64wo\workspace\csharp\practice\RandomNumbers\bin\Debug\netcoreapp2.2\RandomNumbers.pdb
+C:\Users\c64wo\workspace\csharp\practice\RandomNumbers\obj\Debug\netcoreapp2.2\RandomNumbers.csprojAssemblyReference.cache
+C:\Users\c64wo\workspace\csharp\practice\RandomNumbers\obj\Debug\netcoreapp2.2\RandomNumbers.csproj.CoreCompileInputs.cache
+C:\Users\c64wo\workspace\csharp\practice\RandomNumbers\obj\Debug\netcoreapp2.2\RandomNumbers.AssemblyInfoInputs.cache
+C:\Users\c64wo\workspace\csharp\practice\RandomNumbers\obj\Debug\netcoreapp2.2\RandomNumbers.AssemblyInfo.cs
+C:\Users\c64wo\workspace\csharp\practice\RandomNumbers\obj\Debug\netcoreapp2.2\RandomNumbers.dll
+C:\Users\c64wo\workspace\csharp\practice\RandomNumbers\obj\Debug\netcoreapp2.2\RandomNumbers.pdb
